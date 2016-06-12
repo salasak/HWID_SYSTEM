@@ -1,0 +1,11 @@
+c:\users\tragicmods\documents\visual studio 2013\Projects\HWID_SYSTEM\HWID_SYSTEM\bin\Debug\HWID_SYSTEM.exe
+c:\users\tragicmods\documents\visual studio 2013\Projects\HWID_SYSTEM\HWID_SYSTEM\bin\Debug\HWID_SYSTEM.pdb
+c:\users\tragicmods\documents\visual studio 2013\Projects\HWID_SYSTEM\HWID_SYSTEM\obj\Debug\HWID_SYSTEM.csprojResolveAssemblyReference.cache
+c:\users\tragicmods\documents\visual studio 2013\Projects\HWID_SYSTEM\HWID_SYSTEM\obj\Debug\HWID_SYSTEM.Form1.resources
+c:\users\tragicmods\documents\visual studio 2013\Projects\HWID_SYSTEM\HWID_SYSTEM\obj\Debug\HWID_SYSTEM.Properties.Resources.resources
+c:\users\tragicmods\documents\visual studio 2013\Projects\HWID_SYSTEM\HWID_SYSTEM\obj\Debug\HWID_SYSTEM.csproj.GenerateResource.Cache
+c:\users\tragicmods\documents\visual studio 2013\Projects\HWID_SYSTEM\HWID_SYSTEM\obj\Debug\HWID_SYSTEM.exe
+c:\users\tragicmods\documents\visual studio 2013\Projects\HWID_SYSTEM\HWID_SYSTEM\obj\Debug\HWID_SYSTEM.pdb
+c:\users\tragicmods\documents\visual studio 2013\Projects\HWID_SYSTEM\HWID_SYSTEM\obj\Debug\HWID_SYSTEM.exe.licenses
+C:\Users\TragicMods\Documents\Visual Studio 2013\Projects\HWID_SYSTEM\HWID_SYSTEM\obj\Debug\HWID_SYSTEM.Register.resources
+C:\Users\TragicMods\Documents\Visual Studio 2013\Projects\HWID_SYSTEM\HWID_SYSTEM\bin\Debug\GTALib.dll
